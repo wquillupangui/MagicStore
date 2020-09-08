@@ -29,3 +29,9 @@ Para correr la aplicación
 ```sh
 npx react-native run-android
 ```
+
+## Autor
+
+* **Andrés Washington Quillupangui** - *Desarrollo* - [wquillupangui](https://github.com/wquillupangui)
+
+
