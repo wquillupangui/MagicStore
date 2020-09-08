@@ -32,6 +32,6 @@ npx react-native run-android
 
 ## Autor
 
-* **Andrés Washington Quillupangui** - *Desarrollo* - [wquillupangui](https://github.com/wquillupangui)
+* **Washington Quillupangui** - *Desarrollo* - [wquillupangui](https://github.com/wquillupangui)
 
 
